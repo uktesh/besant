@@ -1,0 +1,42 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(216, 255, 255);
+}.one li{
+    display: inline-block;
+    padding: 10px;
+}
+h3{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+.two{
+    color: blueviolet;
+}
+.three{
+    color:blue;
+}
+.four{
+    color:brown;
+}
+.five{
+    border-radius: 50px;
+    background-color: aqua;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    grid-row-gap:20px ;
+    grid-column-gap:80px ;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family:Serif;
+}

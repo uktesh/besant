@@ -1,0 +1,84 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(216, 255, 255);
+}
+.one li{
+    display: inline-block;
+    padding: 10px;
+}
+h3{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+.two{
+    color: blueviolet;
+}
+.three{
+    color:blue;
+}
+.four{
+    color:brown;
+}
+.five{
+    border-radius: 50px;
+    background-color: aqua;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+      
+    }
+    .b{
+        width: 800px;
+        margin-left:50px ;
+    }
+#c{
+    background-image: url(https://img.freepik.com/premium-photo/3d-rendering-cute-little-boy-running-isolated-white-background_856795-15644.jpg?w=740);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+ float: right;
+
+ padding-right: 50px; 
+ margin-right: 300px;
+    }
+#ba{
+    background-image: url(https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?w=1060&t=st=1693998307~exp=1693998907~hmac=5bb3146e8407d74e67f3252484db1b95fb2049deea9e84878264ddb30907bd83);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    padding-left: 500px;
+}
+.d{
+    padding-left: 500px;
+}
+.raju{
+    display: flex;
+    /* justify-content: space-between; */
+}
+#la{
+    background-image: url(https://img.freepik.com/premium-photo/character-is-wearing-yellow-outfit-with-word-word-it_14117-8142.jpg?w=1380);
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    /* padding-right: 50px; */
+    /* margin-left:300px; */
+
+}
+.e{
+    padding-left: 50px;
+    width: 800px;
+}
+
+#la{
+   margin-right:500px;
+}

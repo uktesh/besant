@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+   
+}
+hr{
+    background-color: black;
+    color: black;
+     height:1px 
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(216, 255, 255);
+}
+.one li{
+    display: inline-block;
+    padding: 10px;
+}
+h3{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+.two{
+    color: blueviolet;
+}
+.three{
+    color:blue;
+}
+.four{
+    color:brown;
+}
+.five{
+    border-radius: 50px;
+    background-color: aqua;
+}
+.main{
+    background-color:rgb(74, 202, 130);
+}
+.group {
+    display: flex;
+    justify-content:space-evenly;
+    font-family: 'Roboto', sans-serif;
+
+    
+
+}
+.group p{
+    padding: 20px;
+    color:blue;
+    font-family: 'Roboto', sans-serif;
+  
+}
+.head{
+    color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+.a,.b{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+   
+}
+.group1{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+
+    /* margin-left: 25px; */
+}
+.group1 p{
+    padding: 20px;
+    /* color:black; */
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.para{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Roboto', sans-serif;
+
+ 
+}
